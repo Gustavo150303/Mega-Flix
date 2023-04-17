@@ -1,0 +1,22 @@
+@import "header.css";
+@import "caracteristicas.css";
+@import "filmesPrincipais.css";
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    background-color: #190331;
+    height: 85px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape{
+    font-family:'Kanit';
+    font-size: 16px;
+}

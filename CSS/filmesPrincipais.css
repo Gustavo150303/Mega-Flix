@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+
+.filmesPrincipais{
+    text-align: center;
+    justify-content: center;
+    height: 700px;
+    background: rgb(171,56,237);
+    background: linear-gradient(90deg, rgba(171,56,237,1) 0%, rgba(134,40,199,1) 50%, rgba(93,21,165,1) 100%);
+}    
+
+img, .atropos{
+    width: 400px;
+    height: auto;
+    border-radius: 12px;
+}
+
+.imagensFilmes{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 300px;
+    align-items: center; 
+    margin-left: 133px; 
+    padding-bottom: 50px;  
+}
+
+.filmesPrincipais__title{
+    padding-top: 30px;
+}
+
+@media (max-width:720px){
+    .imagensFilmes{
+        display: flex;
+        flex-direction: column;  
+        margin-left: 0;
+        gap: 50px;  
+    }
+
+    .filmesPrincipais{
+        text-align: center;
+        justify-content: center;
+        height: auto;
+        background: rgb(171,56,237);
+        background: linear-gradient(90deg, rgba(171,56,237,1) 0%, rgba(134,40,199,1) 50%, rgba(93,21,165,1) 100%);
+    }
+
+    .filmesPrincipais__title{
+        padding-bottom: 30px;
+    }    
+}
+
+
