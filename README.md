@@ -5,17 +5,17 @@ Este repositório contém o código fonte e os arquivos relacionados ao desenvol
 
 Busca de filmes e séries
 
-Tecnologias utilizadas:
+## Tecnologias utilizadas:
 
 HTML
 CSS
 
 Para executar o site, é necessário baixar todos os arquivos contidos neste repositório e abri-los em um navegador web. É recomendável utilizar o Google Chrome ou Mozilla Firefox.
 
-Autores:
+## Autores:
 
 Gustavo Dantas Botelho de Oliveira
 
-Agradecimentos:
+## Agradecimentos:
 
 Agradecemos ao Senai pelo curso e pela oportunidade de desenvolver este projeto em sala de aula. 
