@@ -1,7 +1,7 @@
 # Mega-Flix
 Este repositório contém o código fonte e os arquivos relacionados ao desenvolvimento do MegaFlix, um site de streaming de filmes e séries desenvolvido em sala de aula no curso de Desenvolvimento de Sistemas oferecido pelo Senai.
 
-Funcionalidades:
+**Funcionalidades:**
 
 Busca de filmes e séries
 
